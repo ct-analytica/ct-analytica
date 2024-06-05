@@ -1,5 +1,5 @@
-### Hi there 👋
-
+<h1 align="center">Hi! I'm Clark Thurston<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p [<img align='center' src="https://github.com/boohag/boohag/blob/main/mink.webp" width="220" alt="giphy">](https://t.me/voko_aleksey)
 <!--
 **boohag/boohag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
