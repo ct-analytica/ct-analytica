@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hi :)&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
+
 <p [<img align='center' src="https://github.com/boohag/boohag/blob/main/mink.webp" width="220" alt="giphy"]></p>
 <!--
 **boohag/boohag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
