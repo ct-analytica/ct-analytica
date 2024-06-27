@@ -1,8 +1,14 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hi :)&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmI4ajY3bHhuZ2l4MHh2c3NxczVieG91Z2lldG9qa3h4a2V0eG1ubiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXwtfadqo7wbfmT46H/giphy.gif" /></p>
 
-<p [<img align='center' src="https://github.com/boohag/boohag/blob/main/mink.webp" width="220" alt="giphy"]></p>
+###
+
+<h2>Socials</h2>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/clark-thurston)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hemlock.hollow/)
+
+---
+
 <!--
 **boohag/boohag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
