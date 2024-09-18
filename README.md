@@ -1,4 +1,4 @@
-![MonkeyMan](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmI4ajY3bHhuZ2l4MHh2c3NxczVieG91Z2lldG9qa3h4a2V0eG1ubiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXwtfadqo7wbfmT46H/giphy.gif)
+<!-- ![MonkeyMan](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmI4ajY3bHhuZ2l4MHh2c3NxczVieG91Z2lldG9qa3h4a2V0eG1ubiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXwtfadqo7wbfmT46H/giphy.gif) -->
 
 ---
 <h2>Socials</h2>
