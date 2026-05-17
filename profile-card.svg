@@ -1,0 +1,110 @@
+<svg width="500" height="300" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Background -->
+  <rect width="500" height="300" fill="#c0c0c0"/>
+
+  <!-- Outer outset border: top/left bright, bottom/right dark -->
+  <line x1="0" y1="0" x2="499" y2="0" stroke="#ffffff" stroke-width="2"/>
+  <line x1="0" y1="0" x2="0" y2="299" stroke="#ffffff" stroke-width="2"/>
+  <line x1="0" y1="298" x2="499" y2="298" stroke="#808080" stroke-width="2"/>
+  <line x1="498" y1="0" x2="498" y2="299" stroke="#808080" stroke-width="2"/>
+  <line x1="2" y1="2" x2="497" y2="2" stroke="#dfdfdf" stroke-width="1"/>
+  <line x1="2" y1="2" x2="2" y2="296" stroke="#dfdfdf" stroke-width="1"/>
+  <line x1="2" y1="296" x2="497" y2="296" stroke="#404040" stroke-width="1"/>
+  <line x1="496" y1="2" x2="496" y2="296" stroke="#404040" stroke-width="1"/>
+
+  <!-- Active tab -->
+  <rect x="3" y="3" width="128" height="21" fill="#c0c0c0"/>
+  <line x1="3" y1="3" x2="131" y2="3" stroke="#ffffff" stroke-width="1"/>
+  <line x1="3" y1="3" x2="3" y2="24" stroke="#ffffff" stroke-width="1"/>
+  <line x1="131" y1="3" x2="131" y2="24" stroke="#808080" stroke-width="1"/>
+  <text x="10" y="18" font-family="Tahoma, Arial, sans-serif" font-size="11" fill="#000000">about_clark.js</text>
+
+  <!-- Tab / code area separator -->
+  <line x1="3" y1="24" x2="496" y2="24" stroke="#808080" stroke-width="1"/>
+
+  <!-- Code area: white background with inset border -->
+  <rect x="4" y="25" width="490" height="242" fill="#ffffff"/>
+  <line x1="4"   y1="25"  x2="494" y2="25"  stroke="#808080" stroke-width="1"/>
+  <line x1="4"   y1="25"  x2="4"   y2="267" stroke="#808080" stroke-width="1"/>
+  <line x1="4"   y1="267" x2="494" y2="267" stroke="#dfdfdf" stroke-width="1"/>
+  <line x1="494" y1="25"  x2="494" y2="267" stroke="#dfdfdf" stroke-width="1"/>
+  <line x1="5"   y1="26"  x2="493" y2="26"  stroke="#404040" stroke-width="1"/>
+  <line x1="5"   y1="26"  x2="5"   y2="266" stroke="#404040" stroke-width="1"/>
+  <line x1="5"   y1="266" x2="493" y2="266" stroke="#c0c0c0" stroke-width="1"/>
+  <line x1="493" y1="26"  x2="493" y2="266" stroke="#c0c0c0" stroke-width="1"/>
+
+  <!-- Line number column -->
+  <rect x="6" y="27" width="30" height="238" fill="#f0f0f0"/>
+  <line x1="36" y1="27" x2="36" y2="265" stroke="#c0c0c0" stroke-width="1"/>
+
+  <!-- Line numbers (lines at y = 44, 62, 80 … +18 each) -->
+  <text font-family="'Courier New', Courier, monospace" font-size="12" fill="#808080" text-anchor="end">
+    <tspan x="33" y="44">1</tspan>
+    <tspan x="33" y="62">2</tspan>
+    <tspan x="33" y="80">3</tspan>
+    <tspan x="33" y="98">4</tspan>
+    <tspan x="33" y="116">5</tspan>
+    <tspan x="33" y="134">6</tspan>
+    <tspan x="33" y="152">7</tspan>
+    <tspan x="33" y="170">8</tspan>
+    <tspan x="33" y="188">9</tspan>
+    <tspan x="33" y="206">10</tspan>
+    <tspan x="33" y="224">11</tspan>
+    <tspan x="33" y="242">12</tspan>
+  </text>
+
+  <!-- Code: line 1 — comment -->
+  <text x="39" y="44" font-family="'Courier New', Courier, monospace" font-size="12" fill="#008000">// about_clark.js</text>
+
+  <!-- Code: line 2 — blank -->
+
+  <!-- Code: line 3 — const clark = { -->
+  <text x="39" y="80" font-family="'Courier New', Courier, monospace" font-size="12"><tspan fill="#0000ff" font-weight="bold">const </tspan><tspan fill="#800080">clark</tspan><tspan fill="#000000"> = {</tspan></text>
+
+  <!-- Code: line 4 — name -->
+  <text x="39" y="98" font-family="'Courier New', Courier, monospace" font-size="12"><tspan fill="#ff0000">  name</tspan><tspan fill="#000000">:    </tspan><tspan fill="#808080">"Clark Thurston"</tspan><tspan fill="#000000">,</tspan></text>
+
+  <!-- Code: line 5 — role -->
+  <text x="39" y="116" font-family="'Courier New', Courier, monospace" font-size="12"><tspan fill="#ff0000">  role</tspan><tspan fill="#000000">:    [</tspan><tspan fill="#808080">"Science Guy"</tspan><tspan fill="#000000">, </tspan><tspan fill="#808080">"Research Guy"</tspan><tspan fill="#000000">],</tspan></text>
+
+  <!-- Code: line 6 — skills -->
+  <text x="39" y="134" font-family="'Courier New', Courier, monospace" font-size="12"><tspan fill="#ff0000">  skills</tspan><tspan fill="#000000">:  [</tspan><tspan fill="#808080">"Python"</tspan><tspan fill="#000000">, </tspan><tspan fill="#808080">"JS"</tspan><tspan fill="#000000">, </tspan><tspan fill="#808080">"HTML"</tspan><tspan fill="#000000">, </tspan><tspan fill="#808080">"CSS"</tspan><tspan fill="#000000">, </tspan><tspan fill="#808080">"Git"</tspan><tspan fill="#000000">],</tspan></text>
+
+  <!-- Code: line 7 — hobbies -->
+  <text x="39" y="152" font-family="'Courier New', Courier, monospace" font-size="12"><tspan fill="#ff0000">  hobbies</tspan><tspan fill="#000000">: </tspan><tspan fill="#808080">"anything + everything"</tspan><tspan fill="#000000">,</tspan></text>
+
+  <!-- Code: line 8 — links: { -->
+  <text x="39" y="170" font-family="'Courier New', Courier, monospace" font-size="12"><tspan fill="#ff0000">  links</tspan><tspan fill="#000000">: {</tspan></text>
+
+  <!-- Code: line 9 — github -->
+  <text x="39" y="188" font-family="'Courier New', Courier, monospace" font-size="12"><tspan fill="#000000">    </tspan><tspan fill="#ff0000">github</tspan><tspan fill="#000000">:   </tspan><tspan fill="#808080">"ct-analytica"</tspan><tspan fill="#000000">,</tspan></text>
+
+  <!-- Code: line 10 — linkedin -->
+  <text x="39" y="206" font-family="'Courier New', Courier, monospace" font-size="12"><tspan fill="#000000">    </tspan><tspan fill="#ff0000">linkedin</tspan><tspan fill="#000000">: </tspan><tspan fill="#808080">"clark-thurston"</tspan><tspan fill="#000000">,</tspan></text>
+
+  <!-- Code: line 11 — }, -->
+  <text x="39" y="224" font-family="'Courier New', Courier, monospace" font-size="12" fill="#000000">  },</text>
+
+  <!-- Code: line 12 — }; -->
+  <text x="39" y="242" font-family="'Courier New', Courier, monospace" font-size="12" fill="#000000">};</text>
+
+  <!-- Footer separator -->
+  <line x1="4" y1="268" x2="494" y2="268" stroke="#808080" stroke-width="1"/>
+
+  <!-- Footer: language label -->
+  <text x="8" y="284" font-family="Tahoma, Arial, sans-serif" font-size="11" fill="#000000">JavaScript</text>
+
+  <!-- Footer: Copy button (decorative) -->
+  <rect x="420" y="270" width="70" height="18" fill="#c0c0c0"/>
+  <line x1="420" y1="270" x2="490" y2="270" stroke="#ffffff" stroke-width="1"/>
+  <line x1="420" y1="270" x2="420" y2="288" stroke="#ffffff" stroke-width="1"/>
+  <line x1="420" y1="288" x2="490" y2="288" stroke="#808080" stroke-width="1"/>
+  <line x1="490" y1="270" x2="490" y2="288" stroke="#808080" stroke-width="1"/>
+  <line x1="421" y1="271" x2="489" y2="271" stroke="#dfdfdf" stroke-width="1"/>
+  <line x1="421" y1="271" x2="421" y2="287" stroke="#dfdfdf" stroke-width="1"/>
+  <line x1="421" y1="287" x2="489" y2="287" stroke="#404040" stroke-width="1"/>
+  <line x1="489" y1="271" x2="489" y2="287" stroke="#404040" stroke-width="1"/>
+  <text x="455" y="283" font-family="Tahoma, Arial, sans-serif" font-size="11" fill="#000000" text-anchor="middle">Copy</text>
+
+</svg>
