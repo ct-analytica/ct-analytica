@@ -14,6 +14,60 @@ Skills: Python / JS / HTML / CSS / GIT
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ct-analytica)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/clark-thurston/)  
 
 
+<div class="card-container">
+  <div class="card">
+    <div class="card-header">
+      <div class="card-tabs">
+        <div class="card-tab active">Create an HTTP Server</div>
+      </div>
+    </div>
+    <div class="card-body">
+      <div class="line-numbers">
+        <span>1</span><span>2</span><span>3</span><span>4</span><span>5</span
+        ><span>6</span><span>7</span><span>8</span><span>9</span><span>10</span
+        ><span>11</span><span>12</span><span>13</span><span>14</span>
+      </div>
+      <pre
+        class="code-content"
+      ><code><span class="code-comment">// server.mjs</span>
+<span class="code-keyword">import</span> { <span class="code-variable">createServer</span> } <span class="code-keyword">from</span> <span class="code-string">'node:http'</span>;
+
+<span class="code-keyword">const</span> <span class="code-variable-2">server</span> = <span class="code-function">createServer</span>((<span class="code-variable-2">req</span>, <span class="code-variable-2">res</span>) =&gt; {
+  <span class="code-variable-2">res</span>.<span class="code-function">writeHead</span>(<span class="code-number">200</span>, { <span class="code-string">'Content-Type'</span>: <span class="code-string">'text/plain'</span> });
+  <span class="code-variable-2">res</span>.<span class="code-function">end</span>(<span class="code-string">'Hello World!\n'</span>);
+});
+
+<span class="code-comment">// starts a simple http server locally on port 3000</span>
+<span class="code-variable-2">server</span>.<span class="code-function">listen</span>(<span class="code-number">3000</span>, <span class="code-string">'127.0.0.1'</span>, () =&gt; {
+  <span class="code-function">console</span>.<span class="code-function">log</span>(<span class="code-string">'Listening on 127.0.0.1:3000'</span>);
+});
+
+<span class="code-comment">// run with `node server.mjs`</span>
+</code></pre>
+    </div>
+    <div class="card-footer">
+      <span class="language-name">JavaScript</span>
+      <button class="copy-button">
+        <svg
+          stroke="currentColor"
+          fill="currentColor"
+          stroke-width="0"
+          viewBox="0 0 16 16"
+          height="1em"
+          width="1em"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <path
+            fill-rule="evenodd"
+            d="M4 2a2 2 0 0 1 2-2h8a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V2zm2-1a1 1 0 0 0-1 1v8a1 1 0 0 0 1 1h8a1 1 0 0 0 1-1V2a1 1 0 0 0-1-1H6zM2 5a1 1 0 0 0-1 1v8a1 1 0 0 0 1 1h8a1 1 0 0 0 1-1v-1h1v1a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2h1v1H2z"
+          ></path>
+        </svg>
+        <span class="copy-button-text">Copy to clipboard</span>
+      </button>
+    </div>
+  </div>
+</div>
+
 
 ---
 
