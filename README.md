@@ -3,7 +3,7 @@
 ---
 ### 👋 **Hi!**
 #### Science Guy. Research Guy.
-![Science Guy. Research Guy.](https://img.magnific.com/premium-vector/seamless-mystic-space-pattern-with-clouds-astrology-magic-background-tarot-style-clouds_274258-782.jpg?semt=ais_rp_progressive&w=740&q=80)
+![Science Guy. Research Guy.](mink.webp)
 
 I program when the time presents itself or sometimes just for fun. I enjoy a slew of hobbies and this one helps with everything.
 
