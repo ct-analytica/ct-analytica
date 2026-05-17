@@ -55,7 +55,7 @@
   </text>
 
   <!-- Code: line 1 — comment -->
-  <text x="39" y="44" font-family="'Courier New', Courier, monospace" font-size="12" fill="#008000">// about_clark.js</text>
+  <text x="39" y="44" font-family="'Courier New', Courier, monospace" font-size="12" fill="#008000">// about_me.js</text>
 
   <!-- Code: line 2 — blank -->
 
@@ -63,7 +63,7 @@
   <text x="39" y="80" font-family="'Courier New', Courier, monospace" font-size="12"><tspan fill="#0000ff" font-weight="bold">const </tspan><tspan fill="#800080">clark</tspan><tspan fill="#000000"> = {</tspan></text>
 
   <!-- Code: line 4 — name -->
-  <text x="39" y="98" font-family="'Courier New', Courier, monospace" font-size="12"><tspan fill="#ff0000">  name</tspan><tspan fill="#000000">:    </tspan><tspan fill="#808080">"Clark Thurston"</tspan><tspan fill="#000000">,</tspan></text>
+  <text x="39" y="98" font-family="'Courier New', Courier, monospace" font-size="12"><tspan fill="#ff0000">  name</tspan><tspan fill="#000000">:me</tspan><tspan fill="#808080">"Clark Thurston"</tspan><tspan fill="#000000">,</tspan></text>
 
   <!-- Code: line 5 — role -->
   <text x="39" y="116" font-family="'Courier New', Courier, monospace" font-size="12"><tspan fill="#ff0000">  role</tspan><tspan fill="#000000">:    [</tspan><tspan fill="#808080">"Science Guy"</tspan><tspan fill="#000000">, </tspan><tspan fill="#808080">"Research Guy"</tspan><tspan fill="#000000">],</tspan></text>
