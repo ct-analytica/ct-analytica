@@ -66,7 +66,7 @@
   <text x="39" y="98" font-family="'Courier New', Courier, monospace" font-size="12"><tspan fill="#ff0000">  name</tspan><tspan fill="#000000">:me</tspan><tspan fill="#808080">"Clark Thurston"</tspan><tspan fill="#000000">,</tspan></text>
 
   <!-- Code: line 5 — role -->
-  <text x="39" y="116" font-family="'Courier New', Courier, monospace" font-size="12"><tspan fill="#ff0000">  role</tspan><tspan fill="#000000">:    [</tspan><tspan fill="#808080">"Science and Research"</tspan><tspan fill="#000000">, </tspan><tspan fill="#808080">"Clinical Sciences"</tspan><tspan fill="#000000">],</tspan></text>
+  <text x="39" y="116" font-family="'Courier New', Courier, monospace" font-size="12"><tspan fill="#ff0000">  role</tspan><tspan fill="#000000">:    [</tspan><tspan fill="#808080">"Research"</tspan><tspan fill="#000000">, </tspan><tspan fill="#808080">"Clinical Sciences"</tspan><tspan fill="#000000">],</tspan></text>
 
   <!-- Code: line 6 — skills -->
   <text x="39" y="134" font-family="'Courier New', Courier, monospace" font-size="12"><tspan fill="#ff0000">  skills</tspan><tspan fill="#000000">:  [</tspan><tspan fill="#808080">"Python"</tspan><tspan fill="#000000">, </tspan><tspan fill="#808080">"JS"</tspan><tspan fill="#000000">, </tspan><tspan fill="#808080">"SQL"</tspan><tspan fill="#000000">, </tspan><tspan fill="#808080">"C (in progress)"</tspan><tspan fill="#000000">],</tspan></text>
