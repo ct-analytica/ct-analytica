@@ -72,7 +72,7 @@
   <text x="39" y="134" font-family="'Courier New', Courier, monospace" font-size="12"><tspan fill="#ff0000">  skills</tspan><tspan fill="#000000">:  [</tspan><tspan fill="#808080">"Python"</tspan><tspan fill="#000000">, </tspan><tspan fill="#808080">"JS"</tspan><tspan fill="#000000">, </tspan><tspan fill="#808080">"HTML"</tspan><tspan fill="#000000">, </tspan><tspan fill="#808080">"CSS"</tspan><tspan fill="#000000">, </tspan><tspan fill="#808080">"Git"</tspan><tspan fill="#000000">],</tspan></text>
 
   <!-- Code: line 7 — hobbies -->
-  <text x="39" y="152" font-family="'Courier New', Courier, monospace" font-size="12"><tspan fill="#ff0000">  hobbies</tspan><tspan fill="#000000">: </tspan><tspan fill="#808080">"fly-fishing, woodworking, blacksmithing, homesteading, machine tinkering, folklore, sitting outside"</tspan><tspan fill="#000000">,</tspan></text>
+  <text x="39" y="152" font-family="'Courier New', Courier, monospace" font-size="12"><tspan fill="#ff0000">  hobbies</tspan><tspan fill="#000000">: </tspan><tspan fill="#808080">"fly-fishing, woodworking, blacksmithing, folklore"</tspan><tspan fill="#000000">,</tspan></text>
 
   <!-- Code: line 8 — links: { -->
   <text x="39" y="170" font-family="'Courier New', Courier, monospace" font-size="12"><tspan fill="#ff0000">  links</tspan><tspan fill="#000000">: {</tspan></text>
